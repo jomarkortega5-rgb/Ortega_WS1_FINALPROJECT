@@ -12,4 +12,3 @@ SETUP
   2. Copy this folder (named habit-tracker) into  C:\xampp\htdocs\
   3. Open http://localhost/phpmyadmin -> Import -> choose database.sql -> Go.
   4. Open http://localhost/Daily_habit_study_tracker/ in browser.
-  If your MySQL has a root password, edit it in api/db.php.
