@@ -1,4 +1,4 @@
-DAILY HABITS AND STUDY TRACKER  (HTML5 + CSS3 + JavaScript + PHP + MySQL on XAMPP)
+DAILY HABIT AND STUDY TRACKER  (HTML5 + CSS3 + JavaScript + PHP + MySQL on XAMPP)
 
 FILES
   index.html, style.css, script.js   front end (plain HTML/CSS/vanilla JavaScript, no libraries)
